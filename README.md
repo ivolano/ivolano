@@ -1,0 +1,5 @@
+- Meu nome é Fábio, também conhecido como Ivojack ou @ivolano.✨
+- Eu gosto de música, games, e sou do audiovisual. 🤓
+- Curso Análise e Desenvolvimento de Sistemas. ❤️
+- Espero conseguir contribuir pra diversas ideias criativas e animadoras! 😁
+- @ivojackk no twitter, to sempre por lá! 🐦
