@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" height="250px" width="250px" alt="GIF" src="https://sat02pap004files.storage.live.com/y4ms8KVEMbnJ5lp7tQAUp2PoHv28s5qniI0MTZM7n1hVUQBImp2eywzDwLc0R1NMWFqDFKR7WW3gh5hdX2Prv72oT3ehREiQstkXLiimNWjYQ-OKitn35dY5CPaS91KsYNlCwo2EBdKtk9IVOe7D6LLAGC0Hjv-LUod91bMMSJm0pMqoBx7R37Vps51WaMzHS9iQtSIYYnj29Iox6aQCXJkKV2pgJ8a-A87oSTyWH4CjmQ?encodeFailures=1&width=601&height=601"/>
+    <img align="center" height="250px" width="250px" alt="LOGO" src="https://i.imgur.com/ZmwgM02.png"/>
  </div>
 
 ---
