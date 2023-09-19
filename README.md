@@ -12,10 +12,25 @@
 ### Sou um editor de vídeo e designer transicionando para á área tech! 📽️
 </div>
 <ul>
-    <li><i>Também conhecido no meio artístico como Ivojack ou Ivolano (minha marca pessoal).</li>
+    <li><i>Também conhecido como Ivojack ou Ivolano (minha marca pessoal).</li>
     <li>Acredito na colaboração coletiva para a construção de projetos que beneficiem o coletivo.</li>
-    <li>Acredito que o traço mais importante de um desenvolvedor deve ser a sua conexão com o lado humano do desenvolvimento de tecnologias.</i></li>
+    <li>Acredito que o traço mais importante de um desenvolvedor deve ser a sua conexão com o lado humano da tecnologia. Comunicação e empatia são chave.</i></li>
 </ul>
+
+
+<div align="center"> 
+
+# Hello, my name is Fábio! 😁
+
+
+### I'm a video editor trasitioning to the tech area working freelancer in Web Development. 📽️
+</div>
+<ul>
+    <li><i>Also known as Ivojack or Ivolano (My personal little trademark).</li>
+    <li>I believe in the collective collaboration for the construction of projects that benefits the society as a whole.</li>
+    <li>I believe the most important trace of a developer is the connection with de human side ot tech. Communication and empathy are key.</i></li>
+</ul>
+
 
 <div align="center">
 
